@@ -1,0 +1,212 @@
+
+
+
+
+.head{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.nav-links{
+    display: flex;
+}
+
+li{
+
+    list-style: none;
+    margin-left: 8px;
+}
+
+.im1{
+    height: 150px;
+    width: 360px;
+}
+
+.first-content{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.text{
+    text-align:left;
+    width: 360px;
+}
+
+.nav-links,
+.header{
+    width: 360px;
+}
+
+#head{
+    margin-top: 8px;
+    border-radius: 5px;
+    width: 70px;
+    padding: 3px;
+}
+
+.awsome{
+    font-size: larger;
+    width: 180px;
+    margin-bottom: 8px;
+}
+
+.nav-links{
+    font-size: smaller;
+}
+
+.section-one{
+    width: auto;
+    height: 300px;
+}
+
+.head-two{
+    text-align: center;
+}
+
+.im2{
+    border: 2px solid blue;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    
+}
+
+.second-content{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top:30px ;
+    margin-bottom: 20px;
+}
+
+.text2{
+    margin: auto;
+    width: 100px;
+    font-size: 12px;
+    text-align:center;
+}
+
+.c2{
+    height: 280px;
+}
+
+.section-three{
+    height: 280px;
+    display: flex;
+    align-items: center;
+    
+}
+
+
+.quote{
+    
+    width: 410px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: larger;
+}
+
+.thor{
+    text-align: end;
+    
+}
+
+.section-four{
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    margin: auto;
+    justify-content: center;
+    border: 1px;
+    border-radius: 5px;
+    height: 100px;
+    color: #F9FAF8;
+}
+
+.Ss{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+
+
+.call{
+    width: 490px;
+}
+
+#button{
+    margin-left: 50px;
+    padding-left: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: 10px;
+}
+
+.signup{
+    margin-top: 5px;
+}
+
+.Ss{
+    height: 150px;
+}
+
+.footer{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+}
+
+.section-one,
+.footer{
+    background-color: #1F2937;
+}
+
+.awsome{
+    color: #F9FAF8;
+    
+}
+
+.text{
+    color:#E5E7EB;
+}
+
+button{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: white 1px solid;
+    border-radius: 3px;
+}
+.header{
+    color: #F9FAF8;
+}
+
+.nav-links{
+    color: #F9FAF8;
+}
+
+.head-two{
+    font-size: 20px;
+    color: #1F2937;
+    font-weight: bolder;
+}
+
+.section-three{
+    background-color: #E5E7EB;
+}
+
+.quote{
+    font-size: 20px;
+    font-style: italic;
+}
+
+.section-four{
+    background-color: #3882F6;
+}
+
